@@ -1,6 +1,6 @@
 # LMR
 
-LMR is currently being submitted to the iOS App Store. Use this simulator build with the iOS 11 Simulator to demo the app (Mac only). 
+LMR is temporarily off the iOS App Store. Use this simulator build with the iOS 11 Simulator to demo the app (Mac only). 
 
 App demo video - https://youtu.be/JpmnhSRKRy4
 
